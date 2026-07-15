@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DeBeatzGH - Dynamic Multi-Hub</title>
+    <title>welcome to- Dynamic Multi-Hub</title>
     <!-- Tailwind CSS for state-of-the-art styling -->
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
@@ -57,11 +57,11 @@
             <div class="w-16 h-16 bg-gradient-to-tr from-indigo-600 to-purple-600 rounded-2xl flex items-center justify-center mx-auto mb-4 animate-premium-pulse">
                 <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
             </div>
-            <h2 class="text-xl font-bold mb-2">Welcome to DeBeatzGH Hub</h2>
+            <h2 class="text-xl font-bold mb-2">Welcome to faq Hub</h2>
             <p class="text-sm text-slate-400 mb-6">Initializing digital assets & application environments...</p>
             <div class="h-80 w-full rounded-lg overflow-hidden border border-slate-800 bg-black mb-4">
                 <!-- Autoloading Socialcreator Application first -->
-                <iframe src="https://www.socialcreator.com/techshop" class="w-full h-full border-none"></iframe>
+                <iframe src="https://debeatzgh1.github.io/-/" class="w-full h-full border-none"></iframe>
             </div>
             <button onclick="hideSplash()" class="w-full py-2.5 bg-indigo-600 hover:bg-indigo-500 font-bold rounded-lg transition-all">
                 Enter Interface
